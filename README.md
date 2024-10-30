@@ -9,6 +9,7 @@ This project also includes CSV files for summary data & metrics used to create f
 Study makes use of previously published data:
 ## References and Resources
 Kieran, T.J., Sun, X., Maines, T.R. et al. Machine learning approaches for influenza A virus risk assessment identifies predictive correlates using ferret model in vivo data. Commun Biol 7, 927 (2024). https://doi.org/10.1038/s42003-024-06629-0
+https://github.com/CDCgov/machine-learning-influenza-ferret-model/tree/main
 
 Kieran, T.J., Sun, X., Creager, H.M. et al. An aggregated dataset of serial morbidity and titer measurements from influenza A virus-infected ferrets. Sci Data 11, 510 (2024). https://doi.org/10.1038/s41597-024-03256-6
 
