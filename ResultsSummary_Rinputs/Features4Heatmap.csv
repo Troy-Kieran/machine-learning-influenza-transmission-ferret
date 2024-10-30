@@ -1,0 +1,9 @@
+Classification,Type,Test,Outcome,Origin,RBS,PBS,slope13_v,slope13_vcat,HA
+RDT,test,1,RD,Origin,RBS,PBS,slope13_v,,HA
+RDT,stan,2,RD,Origin,RBS,PBS,slope13_v,,HA
+RDT,test,3,RD,Origin,RBS,PBS,,slope13_vcat,HA
+RDT,pub,4,RD,Origin,RBS,PBS,,slope13_vcat,HA
+RDT,stan,5,RD,Origin,RBS,PBS,,slope13_vcat,HA
+DCT,test,1,DC,Origin,RBS,PBS,slope13_v,,HA
+DCT,test,2,DC,Origin,RBS,PBS,,slope13_vcat,HA
+DCT,pub,3,DC,Origin,RBS,PBS,,slope13_vcat,HA

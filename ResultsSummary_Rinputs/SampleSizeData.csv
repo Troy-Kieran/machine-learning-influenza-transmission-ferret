@@ -1,0 +1,9 @@
+x,Model,Virus,Obs_yes
+N,RDT-num-test,85,293(144)
+N,RDT-num-stan,2,72(36)
+N,RDT-cat-test,85,293(144)
+N,RDT-cat-pub,47,168(43)
+N,RDT-cat-stan,2,72(36)
+N,DCT-num-test,87,301(185)
+N,DCT-cat-test,87,301(185)
+N,DCT-cat-pub,37,104(54)

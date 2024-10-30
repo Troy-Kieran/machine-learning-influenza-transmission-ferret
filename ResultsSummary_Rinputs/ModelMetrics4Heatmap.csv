@@ -1,0 +1,5 @@
+Metric,RDT-num-test,RDT-num-stan,RDT-cat-test,RDT-cat-pub,RDT-cat-stan,DCT-num-test,DCT-cat-test,DCT-cat-pub
+F1,1,0.3333,0.9136,0.9198,0.8889,1,0.9706,0.8868
+BA,1,0.5556,0.918,0.9011,0.8889,1,0.9821,0.8867
+MCC,1,0.1490712,0.8396545,0.7426539,0.7777778,1,0.9535112,0.7750576
+test,RDT-num-test,RDT-num-stan,RDT-cat-test,RDT-cat-pub,RDT-cat-stan,DCT-num-test,DCT-cat-test,DCT-cat-pub
