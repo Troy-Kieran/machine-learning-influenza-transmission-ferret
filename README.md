@@ -2,7 +2,7 @@
 
 R code used for the machine learning portion of: 
 
-Kieran TJ, Sun X, Maines TR, Belser JA. Optimal thresholds and key parameters for predicting influenza A virus transmission events in ferrets. npj Viruses 2, 64 (2024).
+Kieran TJ, Sun X, Maines TR, Belser JA. Optimal thresholds and key parameters for predicting influenza A virus transmission events in ferrets. npj Viruses 2, 64 (2024). https://doi.org/10.1038/s44298-024-00074-w
 
 This project also includes CSV files for summary data & metrics used to create figures from the manuscript in the "ResultsSummary_Rinputs" directory. 
 
